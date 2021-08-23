@@ -6,7 +6,7 @@ const http = require('http')
 let notes = [
     {
         "id": 1,
-        "content": "He de menjar anous mentre programo al matí i potser també a la tarda, entesos? d'acord",
+        "content": "He de menjar anous mentre programo i a la nit només gaspatxo",
         "date": "2021-10-30T17:30:31.098Z",
         "important": true
     },

@@ -92,11 +92,23 @@ npm install nodemon -D
 ./node_modules/.bin/nodemon index.js
 ```
 
-Or even better, just add to package.json "scripts"
+### Or even better, just add to package.json "scripts"
 ```
   "scripts": {
     "dev": "nodemon index.js",
 ```
+
+### Or even better, just add to package.json "scripts"
+```
+  "scripts": {
+    "dev": "nodemon index.js",
+```
+
+### Initialize the project once nodemon is installed
+```
+npm run dev
+```
+
 ## Customize configuration
 See...
 
